@@ -146,10 +146,6 @@ Define the SVG gradient outside the Timer component and pass the gradient ID to 
 </CountdownCircleTimer>
 ```
 
-## Authors
-
-- adsfasdfasdfasdf
-
 
 ## Screenshots
 
